@@ -1,6 +1,7 @@
 /* Github - https://github.com/NTDevLops/no-devtools-js/ */
 /* Ashish Sharma */
 
+
 (function () {
 
     document.addEventListener('contextmenu', function (e) {
