@@ -52,7 +52,7 @@ Download `no-devtools.js` and include it:
 ### Option 2: CDN (after GitHub upload)
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/NTDevLops/no-devtools-js/no-devtools.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/NTDevLops/no-devtools-js@main/no-devtools.js"></script>
 ```
 
 ---
